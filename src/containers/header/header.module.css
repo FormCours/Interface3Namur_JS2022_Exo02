@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    padding: 10px;
+    background-color: #0F5;
+}
+
+.header > img {
+    height: 50px;
+    padding-right: 10px;
+}
+
+header > p {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: bold;
+}

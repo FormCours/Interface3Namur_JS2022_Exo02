@@ -1,0 +1,7 @@
+.priceBarred {
+    text-decoration: line-through;
+}
+
+.pricePromo {
+    color: hotpink;
+}
